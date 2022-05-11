@@ -31,4 +31,4 @@ While writing my [MSc thesis](https://github.com/hotakakobori/MSc-Thesis-Replica
 
 3. [Gregory Mankiw's Blog](http://gregmankiw.blogspot.com/2006/10/how-to-write-well.html?m=1)
 
-4. 
+4. [Writing Economics by ](https://writingproject.fas.harvard.edu/files/hwp/files/writingeconomics.pdf)
