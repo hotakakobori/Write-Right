@@ -17,9 +17,8 @@ While writing my [MSc thesis](https://github.com/hotakakobori/MSc-Thesis-Replica
 
 2. [Doing Economics: What You Should Have Learned in Grad School–But Didn’t by Marc F. Bellemare](http://marcfbellemare.com/wordpress/wp-content/uploads/2020/09/BellemareHowToPaperSeptember2020.pdf)
 
-3. [Economical Writing by Deirdre McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf) and [Summary of this by Stephen Kinsella](http://stephenkinsella.net/WordPress/wp-content/uploads/2006/12/Economical%20Writing%20by%20Deirdre%20McCloskey.pdf)
+3. [Economical Writing by Deirdre McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf) and [Summary from him](https://www.jstor.org/stable/40325922?seq=1), and [Summary of this by Stephen Kinsella](http://stephenkinsella.net/WordPress/wp-content/uploads/2006/12/Economical%20Writing%20by%20Deirdre%20McCloskey.pdf) 
 
-4. [The Little Book of Research Writing by Varanya Chaubey](https://www.amazon.com/Little-Book-Research-Writing/dp/1974673162/ref=pd_sbs_sccl_1_3/138-7549581-7828321?pd_rd_w=5bvCX&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=NYMG0JKCJKPE7412JG84&pd_rd_r=36b78706-6db8-4278-8d12-1951c629ab3f&pd_rd_wg=aEoHN&pd_rd_i=1974673162&psc=1)
 
 ### Academic/General
 
@@ -29,7 +28,7 @@ While writing my [MSc thesis](https://github.com/hotakakobori/MSc-Thesis-Replica
 
 3. [Stylish Academic Writing by Helen Sword](https://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
 
-
+4. [The Little Book of Research Writing by Varanya Chaubey](https://www.amazon.com/Little-Book-Research-Writing/dp/1974673162/ref=pd_sbs_sccl_1_3/138-7549581-7828321?pd_rd_w=5bvCX&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=NYMG0JKCJKPE7412JG84&pd_rd_r=36b78706-6db8-4278-8d12-1951c629ab3f&pd_rd_wg=aEoHN&pd_rd_i=1974673162&psc=1)
 
 ## (Journal) Articles/ Presentation 
 
