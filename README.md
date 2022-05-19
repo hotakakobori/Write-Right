@@ -19,6 +19,8 @@ While writing my [MSc thesis](https://github.com/hotakakobori/MSc-Thesis-Replica
 
 3. [Economical Writing by Deirdre McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf) and [Summary from him](https://www.jstor.org/stable/40325922?seq=1), and [Summary of this by Stephen Kinsella](http://stephenkinsella.net/WordPress/wp-content/uploads/2006/12/Economical%20Writing%20by%20Deirdre%20McCloskey.pdf) 
 
+4. [The Economist’s Craft: An Introduction to Research, Publishing, and Professional Development (Skills for Scholars) by Michael S. Weisbach](https://www.amazon.co.uk/Economists-Craft-Introduction-Professional-Development/dp/0691216487/ref=sr_1_1?crid=235BRTTLGRKZU&keywords=weisbach+economist&qid=1649503672&sprefix=weisbach+economist%2Caps%2C65&sr=8-1&tag=enlighteconom-21)
+
 
 ### Academic/General
 
