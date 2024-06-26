@@ -32,7 +32,7 @@ While writing my [MSc thesis](https://github.com/hotakakobori/MSc-Thesis-Replica
 
 4. [The Little Book of Research Writing by Varanya Chaubey](https://www.amazon.com/Little-Book-Research-Writing/dp/1974673162/ref=pd_sbs_sccl_1_3/138-7549581-7828321?pd_rd_w=5bvCX&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=NYMG0JKCJKPE7412JG84&pd_rd_r=36b78706-6db8-4278-8d12-1951c629ab3f&pd_rd_wg=aEoHN&pd_rd_i=1974673162&psc=1)
 
-## (Journal) Articles/ Presentation 
+## (Journal) Articles/ Presentation/ Blog
 
 1. [Shanjun Li's Webiste](http://li.dyson.cornell.edu/phdRes.php)
 
